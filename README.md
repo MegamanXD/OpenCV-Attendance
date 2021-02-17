@@ -1,6 +1,7 @@
 OpenCV Attendance
 
 For MacOS
+
 Install opencv: brew install opencv
 
 # Installation
@@ -18,7 +19,7 @@ To test camera, run:
 python3 test_camera.py
 ```
 
-To capture user face from 5 angles (top, down, left right), run:
+To capture user face from 5 angles (top, down, left right, center), run:
 ```
 python3 embeddings.py
 ```
